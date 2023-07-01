@@ -16,5 +16,5 @@ You can explore the daily challenges and exercises to improve your proficiency i
 - [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
 ## Exercises and Projects
 ## Daily pages
-- [Day 1](https://www.example.com)
+- [Day 1](day1.md)
 
