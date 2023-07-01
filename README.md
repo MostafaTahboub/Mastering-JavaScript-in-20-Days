@@ -6,7 +6,7 @@ Welcome to the Mastering JavaScript challenge, a 20-day program aimed at enhanci
 You can explore the daily challenges and exercises to improve your proficiency in JavaScript. this page has resources to help you learning JS.
 
 ## Overview
-- **Purpose:** to delve deeper into the JavaScript language and become proficient.
+- **Purpose:** delve deeper into the JavaScript language and become proficient.
 - **Duration**: 20 Days
 
 
