@@ -7,7 +7,7 @@ You can explore the daily challenges and exercises to improve your proficiency i
 
 ## Overview
 - **Purpose:** delve deeper into the JavaScript language and become proficient.
-- **Duration**: 20 Days
+- **Duration**: 20 days
 
 
 ## Courses
