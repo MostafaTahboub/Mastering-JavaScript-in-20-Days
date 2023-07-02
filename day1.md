@@ -7,7 +7,7 @@ On this particular day, i learned the basics of JavaScript and its practical app
 - Every element in html page is an object and you can access and alter elements by using document and JS methods 
 - Values is chunks of information we want to work with
 - There is a many data types in javaScript primitives and non primitives
-- the String is made up of characters and you can access every charcter in the string
+- The String data type is made up of characters and you can access every charcter in the string 
 - There is a many kinds of operators in js like arithmetic opearators , comparison operators , Equality operators,........ .
 ## Coding Examples
 
