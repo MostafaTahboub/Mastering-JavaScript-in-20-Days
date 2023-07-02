@@ -3,11 +3,11 @@
 On this particular day, i learned the basics of JavaScript and its practical application. i began with an introduction to JavaScript, understanding its purpose and where it is typically written. i also explored various key concepts, such as the **Document Object Model (DOM)**, which allows us to modify web pages and access elements using JavaScript. Additionally, i laerned the different **values and data types** commonly used in JavaScript, as well as the **operators** used to manipulate these values.
 
 ## Lessons Summary
-- There is many places to write javaScript code like VScode and in browsers console 
-- Every element in html page is an object and you can access and alter elements by using document and JS methods 
-- Values is chunks of information we want to work with
-- There is a many data types in javaScript primitives and non primitives
-- The String data type is made up of characters and you can access every charcter in the string 
+- There is many places to write javaScript code like VScode ,Browsers Console , Text Editor .
+- Every element in html page is an object and you can access and alter elements by using document and JS methods. 
+- Values is chunks of information we want to work with.
+- There is a many data types in javaScript primitives and non primitives.
+- The String data type is made up of characters and you can access every charcter in the string. 
 - There is a many kinds of operators in js like arithmetic opearators , comparison operators , Equality operators,........ .
 ## Coding Examples
 
