@@ -1,5 +1,5 @@
 
-# Day 1 : Expressions,Arrays and Objects
+# Day 2 : Expressions,Arrays and Objects
 Today, I had an exciting day of learning as I focused on expressions and statements in JavaScript and their overall structure. I gained a deeper understanding of the various data types in JavaScript and their specific applications. Additionally, I explored the concept of arrays and learned how to effectively utilize them in my code. Furthermore, I delved into the world of objects and their practical usage. To solidify my knowledge, I engaged in a series of exercises and even enjoyed playing some useful games related to these topics.
 
 ## Lessons Summary
