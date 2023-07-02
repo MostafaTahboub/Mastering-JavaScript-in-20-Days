@@ -17,4 +17,4 @@ You can explore the daily challenges and exercises to improve your proficiency i
 ## Exercises and Projects
 ## Daily pages
 - [Day 1](day1.md)
-
+- [Day2](Day2.md)
