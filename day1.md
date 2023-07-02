@@ -6,7 +6,7 @@ On this particular day, i learned the basics of JavaScript and its practical app
 ## Coding Examples
 
 ``` 
-  DOM
+ /// DOM
 
 //example 1 : retrive the elements in the web page
 
@@ -21,7 +21,7 @@ document.getElementById("p2-name").textContent="sami";
 2. using append() 
 document.querySelector('h2').append(" and love");
 
-// data types 
+/// Data Types 
 
 //example : using typeof()    
 1.false
@@ -30,11 +30,11 @@ typeof(false); // output : boolean
 2."true"
 typeof("true"); //output: string
 
-//strings 
+/// Strings 
 example: Capitalize the heading "Tic Tac Toe"
 document.querySelector("h1").textContent.toUpperCase();
 
-//opertors
+/// Operators
 example : using  arithmetic opertors to calculate The average number of hours you slept this week
 (8+7+6+10+9+8+6.5)/7
 
