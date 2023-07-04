@@ -11,7 +11,7 @@ Today, I learned about event listeners in JavaScript, followed by conditional st
 - Some actions needed a lot of time to run like "waiting from user events " ,so we use an asynchronus code for it .
 - "setTimeout" method is used to delay action.
 ## Coding Examples
-[ 4-8 Todo Examples on OurQuiz Page code](https://github.com/MostafaTahboub/Mastering-JavaScript-in-20-Days/blob/main/OurQuiz%20Page%20code)
+[ 4-8 ToDo Examples on OurQuiz Page code](https://github.com/MostafaTahboub/Mastering-JavaScript-in-20-Days/blob/main/OurQuiz%20Page%20code)
 
 ```
 // loops Examples
