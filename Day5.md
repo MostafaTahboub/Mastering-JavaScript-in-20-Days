@@ -42,4 +42,4 @@ console.log("still rollin' with the homies");
 
 **MySolution** :
 
-[Fetching Data project](Fetching Data)
+[Fetch Data Project](https://github.com/MostafaTahboub/Mastering-JavaScript-in-20-Days/tree/main/Fetching%20Data)
