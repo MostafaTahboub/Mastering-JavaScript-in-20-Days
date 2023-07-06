@@ -12,7 +12,7 @@ Today, I covered important JavaScript topics including fetching data, promises, 
 - we have a multiple frame workes based on JS. 
 
 ## Coding Examples
-[1-5 ToDo Exercises in Doggos Quiz Game](Dogoo Fetch)
+[1-5 ToDo execises on Doggo Fetch page ](https://github.com/MostafaTahboub/Mastering-JavaScript-in-20-Days/blob/main/Doggos%20Fetch)
 
 ```
 //Example: using the method fetch()
