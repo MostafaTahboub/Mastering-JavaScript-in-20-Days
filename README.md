@@ -15,6 +15,7 @@ You can explore the daily challenges and exercises to improve your proficiency i
 - [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 - [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
 ## Exercises and Projects
+[Fetching Data Project](https://github.com/MostafaTahboub/Mastering-JavaScript-in-20-Days/tree/main/Fetching%20Data)
 ## Daily pages
 - [Day 1](day1.md)
 - [Day2](Day2.md)
