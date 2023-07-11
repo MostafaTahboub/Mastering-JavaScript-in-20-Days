@@ -1,5 +1,5 @@
 
-# Day 7 : Closuers
+# Day 7 : Closures
 Today, I explored closures in JavaScript, understanding their purpose and how they are a powerful concept. Closures  have various practical uses in JavaScript programming.
 
 ## Lessons Summary
