@@ -1,5 +1,5 @@
 
-# Day 11 : Static typing and Scope 
+# Day 12 : Scope & function expression and advanced scope (part 1) 
 Today, I began by learning about scope and function expressions. Later, I delved into the advanced scope, specifically focusing on part 1 of the topic. 
 ## Lessons Summary
 - The reason why we should prefer using named function expression is that has many binefets such as : it provides Reliable function self-reference ,More debuggable stack traces.
