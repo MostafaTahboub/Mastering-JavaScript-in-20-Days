@@ -28,3 +28,5 @@ You can explore the daily challenges and exercises to improve your proficiency i
 - [Day 9](Day9.md)
 - [Day 10](Day10.md)
 - [Day 11](Day11.md)
+- [Day 12](Day12.md)
+- [Day 13](Day13.md)
