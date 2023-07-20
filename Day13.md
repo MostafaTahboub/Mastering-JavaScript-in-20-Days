@@ -40,10 +40,14 @@ myTeacher(); // suzy
 ## Coding Exercises
 
 [Advanced Scope Q1](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day4-tasks/tasks.md)
+
 setTimeout callback function is executed after the timeout, it captures the variable i from the outer scope. However, the setTimeout functions are executed asynchronously after the loop has finished, and by that time, the value of i is already 5. and the solution is to declaring a new variable inside for loop with keyword "let" and assigning to the value of the (i) and then console the value of this new variable , and we have another solution by using IIFE. 
+
 [Advanced Scope Q2](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day4-tasks/tasks.md)
+
 The issue in the current code is that the array variable is reinitialized as an empty array in each iteration of the loop. , to fix it we can intialize an array outside the for loop.
 
 [Advanced Scope Q3](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day4-tasks/tasks.md)
+
 The issue in the functions array contains arrow functions that use the variable i from the outer scope. However, the i variable is declared using var, and as a result, it has function scope and is hoisted to the top of the function. During the execution of the arrow functions (inside forEach), the value of i is already 5 because the loop has already finished. 
 To fix this, we can use let instead of var to declare the variable i.
