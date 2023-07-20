@@ -38,4 +38,42 @@ var teacher=(function getTeacher(){
 ```
 
 ## Coding Exercises
+[Scope and Function expressions Q1 ](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day3-tasks/tasks.md)
+```
+const arrowHOF = (normalFunc) => {
+  return (...args) => {
+    return (count) => {
+      for (let i = 0; i < count; i++) {
+        const result = normalFunc(...args);
+        console.log(result);
+      }
+    };
+  };
+};
+```
+[Scope and Function expressions Q2 ](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day3-tasks/tasks.md)
+
+```
+const obj = {
+  name: 'John',
+  greet: function (greeting) {
+    console.log(`${greeting}, ${this.name}!`);
+  }
+};
+
+const preserveThis = (func) => {
+  return func.bind(func);
+};
+
+const preservedGreet = preserveThis(obj.greet);
+
+preservedGreet('Hello');
+```
+[Scope and Function expressions Q3 EX 1 ](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day3-tasks/tasks.md)
+The Answer : the inner function wiil be able to access the variable of the outer funtion and wiil console this value and when we call the outer function will display this value .
+
+[Scope and Function expressions Q3 EX 2 ](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day3-tasks/tasks.md)
+The Answer: The inner function is define an new variable and assigning it to a new value , and when it console this variable will be access the inner variable not the outer . 
+
+
 
