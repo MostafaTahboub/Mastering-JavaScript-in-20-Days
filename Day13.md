@@ -51,3 +51,50 @@ The issue in the current code is that the array variable is reinitialized as an 
 
 The issue in the functions array contains arrow functions that use the variable i from the outer scope. However, the i variable is declared using var, and as a result, it has function scope and is hoisted to the top of the function. During the execution of the arrow functions (inside forEach), the value of i is already 5 because the loop has already finished. 
 To fix this, we can use let instead of var to declare the variable i.
+
+[Closure Q1](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day4-tasks/tasks.md)
+```
+function privateCounter(){
+  let counter=0;
+      function increment(){
+        counter++;
+        
+      }
+     function getCounter(){
+          return counter;
+      }
+      return {increment,getCounter};
+   }
+```
+
+[Closure Q2](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day4-tasks/tasks.md)
+```
+function generateFibonacci(count) {
+  let currentCount = 0;
+  let fib = []; 
+
+  function fibonacciRecursive(n) {
+    if (n <= 0) return;
+    if (n === 1) {
+      fib.push(0); 
+      return;
+    }
+         if (n === 2) {
+      fib.push(1); 
+      return;
+    }
+    
+      fibonacciRecursive(n - 1);
+    fib.push(fib[fib.length - 1] + fib[fib.length - 2]);
+  }
+
+  fibonacciRecursive(count);
+
+        function getNextFibonacci() {
+    if (currentCount >= count) return null;
+    return fib[currentCount++];
+  }
+
+  return getNextFibonacci;
+}
+```
